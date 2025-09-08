@@ -1,0 +1,10 @@
+# Example terraform.tfvars file
+# Copy this file to terraform.tfvars and fill in your real values
+aws_region         = "us-east-1"
+aws_profile        = "default"
+subnet_id          = "subnet-012345abcdef"
+bucket_name        = "my-bucket"
+allowed_account_id = "0123456789"
+ami_id             = "ami-0123456abcdef"
+instance_type      = "t2.micro"
+project_tag        = "my-project"

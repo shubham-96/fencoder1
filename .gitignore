@@ -1,0 +1,17 @@
+# Terraform related files and directories
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+crash.log
+*.tfplan
+.terraformrc
+terraform.rc
+# Exclude override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+# Exclude CLI configuration files
+.terraformrc
+terraform.rc
