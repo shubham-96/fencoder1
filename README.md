@@ -2,6 +2,10 @@
 
 This repository contains infrastructure & utility scripts for managing & deploying resources for video encoding using ffmpeg.
 
+**⚠️ THIS REPOSITORY HAS BEEN ARCHIVED AND IS NOW READ-ONLY ⚠️**
+
+This repo was created to manually test the encoding workflow before automating it (see [fencoder2](https://github.com/shubham-96/fencoder2)).
+
 ## Directory Structure
 
 - `bin/`
